@@ -1,0 +1,14 @@
+{
+  "generator-ui5-app": {
+    "namespace": "fiori.tutorial.com",
+    "framework": "SAPUI5",
+    "frameworkVersion": "1.118.1",
+    "author": "Arf Mahamud",
+    "initrepo": true,
+    "appId": "fiori.tutorial.com",
+    "appURI": "fiori/tutorial/com",
+    "cdnDomain": "ui5.sap.com",
+    "defaultTheme": "sap_horizon",
+    "setupCompleted": true
+  }
+}
