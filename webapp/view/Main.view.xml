@@ -19,6 +19,11 @@
 				id="helloButton"
 				text="{formatter: 'formatter.formatValue', path: 'i18n>btnText'}"
 				press="sayHello" />
+
+				<Button
+				id="helloButton1"
+				text="{formatter: 'formatter.formatValue', path: 'i18n>btnText1'}"
+				press="sayHello" />
 		</buttons>
 	</MessagePage>
 
